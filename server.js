@@ -8,7 +8,7 @@ const port = 3001;
 
 app.use(express.json());
 app.use(cors({
-  origin: 'https://42169cc6.frontend-da8.pages.dev'
+  origin: 'https://0becaaa1.frontend-da8.pages.dev'
 }));
 
 // Initialize Razorpay
